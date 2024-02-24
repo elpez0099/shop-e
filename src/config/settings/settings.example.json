@@ -1,8 +1,0 @@
-{
-    "envFile": "src/deploy/app.env",
-    "logging": {
-        "errorLog": "src/logs/error.log",
-        "infoLog": "src/logs/info.log",
-        "warningLog": "src/logs/warning.log"
-    }
-}
